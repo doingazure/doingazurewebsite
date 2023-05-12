@@ -1,0 +1,4 @@
+baseURL = 'https://doingazure.com/'
+languageCode = 'en-us'
+title = 'Doing Azure'
+theme = "hugo-book"
