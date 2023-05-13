@@ -18,7 +18,7 @@ https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=van
 ```git commit -m "red" -a```
 ```git push```
 
-### Part 2: USING VS CODE + Adding API (Function)
+### Part 2: USING VS CODE + Adding API (Azure Functions)
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript
 
