@@ -9,3 +9,6 @@ Lab for Boston Azure Bootcamp 13-May-2023. Here are some configuration items.
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain
 
+Check DNS TXT record:
+
+```dig TXT doingazure.com +short```

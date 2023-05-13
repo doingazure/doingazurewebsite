@@ -41,7 +41,7 @@ Run:
 
 ```swa start src --api-location api```
 
-## Node.js (or Node for short) (Needed to install the SWA CLI above)
+## Node.js (or Node for short) (Needed to install the SWA CLI above and later for local debugging)
 
 You probably want the "LTS" version. LTS is the version with long-term support.
 
