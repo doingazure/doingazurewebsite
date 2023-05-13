@@ -15,6 +15,9 @@ https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=van
 
 ```swa start src```
 
+```git commit -m "red" -a```
+```git push```
+
 ### Part 2: USING VS CODE + Adding API (Function)
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript
