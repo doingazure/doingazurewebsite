@@ -2,3 +2,4 @@ baseURL = 'https://doingazure.com/'
 languageCode = 'en-us'
 title = 'Still Doing Azure'
 theme = "hugo-book"
+enableEmoji = true
