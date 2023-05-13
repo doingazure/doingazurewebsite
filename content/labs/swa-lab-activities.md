@@ -26,6 +26,10 @@ https://learn.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-jav
 
 http://localhost:7071/api/RandomNumber?name=Boston%20Azure
 
+### Part 2: TEAMWORK
+
+```git clone git://github.com/jquery/jquery-ui/ -b mybranchname```
+
 # BACKGROUND 
 
 ## SWA Overview
@@ -33,6 +37,8 @@ http://localhost:7071/api/RandomNumber?name=Boston%20Azure
 https://learn.microsoft.com/en-us/azure/static-web-apps/overview
 
 ## SWA Pre-production environments
+
+```git clone git://github.com/jquery/jquery-ui/ -b mybranchname```
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/review-publish-pull-requests
 
