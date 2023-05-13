@@ -57,7 +57,7 @@ If you have a version of Node too new to be compatible with SWA CLI, try this:
 
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?pivots=nodejs-model-v4&tabs=javascript%2Cwindows-setting-the-node-version#node-version
 
-## VS Code Azure Funcions Extension
+## VS Code Azure Functions Extension
 
 You can aso find this from within VS Code by searching the Extensions marketplace, but here's the direct link:
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
