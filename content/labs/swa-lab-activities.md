@@ -38,7 +38,7 @@ https://learn.microsoft.com/en-us/azure/static-web-apps/overview
 
 ## SWA Pre-production environments
 
-```git clone git://github.com/jquery/jquery-ui/ -b mybranchname```
+```git clone https://github.com/bostonazurewebsite/bostonazureswa -b messages```
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/review-publish-pull-requests
 
