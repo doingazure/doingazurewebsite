@@ -17,7 +17,7 @@ https://code.visualstudio.com/download
 
 Consider enabling the FREE TRIAL for GitHub Copilot: https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-your-environment
 
-Once enabled, you'll want to install the 
+Once enabled, you'll want to install the GitHub Copilot extension.
 
 ## VS Code SWA Extension
 
@@ -25,7 +25,7 @@ You can aso find this from within VS Code by searching the Extensions marketplac
 
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 
-## SWA CLI (OPTIONAL)
+## SWA CLI
 
 This can be handy. If you are going to install it, you will also need Node.js (npm) installed. See next listing for Node.js.
 
@@ -47,19 +47,10 @@ You probably want the "LTS" version. LTS is the version with long-term support.
 
 https://nodejs.org/en/download
 
+## VS Code Azure Funcions Extension
 
+You can aso find this from within VS Code by searching the Extensions marketplace, but here's the direct link:
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 
-
-
-
-## SWA Function support
-
-https://learn.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript
-
-
-## SWA Pre-production environments
-
-https://learn.microsoft.com/en-us/azure/static-web-apps/review-publish-pull-requests
-
-https://learn.microsoft.com/en-us/azure/static-web-apps/preview-environments
+:information_source: Tip: SWA has built-in support for Azure Functions. Here's some info on how to use it: https://learn.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript
 
