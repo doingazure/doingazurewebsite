@@ -47,6 +47,16 @@ You probably want the "LTS" version. LTS is the version with long-term support.
 
 https://nodejs.org/en/download
 
+If you have a version of Node too new to be compatible with SWA CLI, try this:
+
+```sudo npm install -g node@18.16.0 --force```
+
+18.16.0 is the active LTS version as of this writing (2023).
+
+### Reference if you have Node/SWA CLI version compatibility issues
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?pivots=nodejs-model-v4&tabs=javascript%2Cwindows-setting-the-node-version#node-version
+
 ## VS Code Azure Funcions Extension
 
 You can aso find this from within VS Code by searching the Extensions marketplace, but here's the direct link:

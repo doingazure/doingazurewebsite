@@ -13,9 +13,13 @@ SWA is Azure Static Web Apps.
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript
 
+```swa start src```
+
 ### Part 2: USING VS CODE + Adding API (Function)
 
 https://learn.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript
+
+```swa start src --api-location api```
 
 # BACKGROUND 
 

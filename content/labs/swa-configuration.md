@@ -12,3 +12,9 @@ https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain
 Check DNS TXT record:
 
 ```dig TXT doingazure.com +short```
+
+Configuration area if hosted on Google Domains:
+
+https://domains.google.com/registrar/doingazure.com
+
+https://domains.google.com/registrar/bostonazure.org 
